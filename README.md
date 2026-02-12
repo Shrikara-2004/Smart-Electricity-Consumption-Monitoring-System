@@ -30,8 +30,8 @@ The main goal is to promote energy awareness and help users make informed decisi
 | ML Model     | Isolation Forest                               |
 | Communication| UART serial (ESP32 ↔ PZEM), HTTP/WebSocket     |
 
-![Circuit_Diagram](image-2.png)
-![Software_Architecture](image-3.png)
+![Circuit Diagram](image-2.png)
+![Software Architecture](image-3.png)
 
 ## Methodology Diagram
 ![Methodology Diagram](methodology.jpg)
@@ -72,13 +72,14 @@ Visit http://localhost:5000 in browser.
 
 ## Output actions
 Login Page
-![Login Page](Login.jpeg)
+![Login Page](Login.jpg)
 
 Dashboard
-![Dashboard](Normal.jpeg)
+![Dashboard](Normal.jpg)
 
 Anomaly Alerts
-![Anomaly](Anamoly.jpeg)
+![Anomaly Alerts](Anamoly.jpg)
+
 
 ## Future Improvements
 
