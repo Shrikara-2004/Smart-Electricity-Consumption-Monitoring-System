@@ -8,7 +8,7 @@ The ESP32 sends the live readings to a Flask backend, which stores the data and 
 Users can monitor real-time values, view historical trends, and better understand their electricity consumption through an interactive and user-friendly interface.  
 The main goal is to promote energy awareness and help users make informed decisions to reduce wastage and manage their electricity bills more effectively.
 
-![System Block Diagram](image-1.png)
+![System Block Diagram](images/image-1.png)
 
 ## Features
 
